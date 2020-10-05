@@ -1,7 +1,49 @@
-{
-  "0":{
-    "latitude":"22.648760",
-    "longitude":"114.048410",
-    "title":"深圳"
+var locations = [
+  {
+    "location":"大林寺",
+    "latitude":29.56513,
+    "longitude":115.96846,
+    "poetry":[
+      {
+        "poem":"大林寺桃花",
+        "poet":"白居易",
+        "text":[
+          "https://baike.baidu.com/item/%E5%A4%A7%E6%9E%97%E5%AF%BA/64256",
+        ],
+        "audio":[
+          "https://www.ximalaya.com/thirdparty/player/sound/player.html?id=242171585&type=red",
+        ],
+        "video":[
+          "https://www.bilibili.com/video/BV1qT4y1777t/",
+          "https://www.bilibili.com/video/BV1B4411y7vL/"
+        ]
+      }
+    ]
+  },
+  {
+    "location":"杜甫草堂",
+    "latitude":30.66007,
+    "longitude":104.02855,
+    "poetry":[
+      {
+        "poem":"堂成",
+        "poet":"杜甫",
+        "text":[
+          "https://baike.baidu.com/item/%E5%A0%82%E6%88%90",
+        ],
+        "audio":[
+          "https://www.ximalaya.com/thirdparty/player/sound/player.html?id=202606390&type=red",
+        ],
+        "video":[
+          "https://www.bilibili.com/video/BV15p411d7s5/",
+          "https://www.bilibili.com/video/BV1uf4y1U7r6/"
+        ]
+      }
+    ] 
   }
+]
+
+
+module.exports = {
+  locations:locations
 }
