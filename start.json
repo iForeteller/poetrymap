@@ -12,11 +12,11 @@
           "https://baike.baidu.com/item/%E5%A4%A7%E6%9E%97%E5%AF%BA/64256"
         ],
         "audio":[
-          "https://www.ximalaya.com/thirdparty/player/sound/player.html?id=242171585&type=red"
+          "https://www.ximalaya.com/thirdparty/player/sound/player.html?id=202605770&type=red"
         ],
         "video":[
-          "https://www.bilibili.com/video/BV1qT4y1777t/",
-          "https://www.bilibili.com/video/BV1B4411y7vL/"
+          "//player.bilibili.com/player.html?aid=926241958&bvid=BV1qT4y1777t&cid=207284742&page=1",
+          "//player.bilibili.com/player.html?aid=66769812&bvid=BV1B4411y7vL&cid=115791341&page=1"
         ]
       }
     ]
@@ -36,8 +36,8 @@
           "https://www.ximalaya.com/thirdparty/player/sound/player.html?id=202606390&type=red"
         ],
         "video":[
-          "https://www.bilibili.com/video/BV15p411d7s5/",
-          "https://www.bilibili.com/video/BV1uf4y1U7r6/"
+          "//player.bilibili.com/player.html?aid=24065693&bvid=BV15p411d7s5&cid=40307503&page=1",
+          "//player.bilibili.com/player.html?aid=285643800&bvid=BV1uf4y1U7r6&cid=192034709&page=1"
         ]
       }
     ] 
